@@ -7,7 +7,7 @@ const AddTransaction = () => {
             <form>
                 <div className="form-control">
                     <label htmlFor="text">Text</label>
-                    <input type="text" id="text" placeholder="Enter text..." />
+                    <input type="text" placeholder="Enter text..." />
                 </div>
                 <div className="form-control">
                     <label htmlFor="amount"
